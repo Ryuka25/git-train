@@ -1,6 +1,7 @@
 git commit --amend
 * Change last commit name !
 * This help when you have make mistake in your last commit message
+* Finish this section
 
 git add <fichier_1> <fichier_2>
 * Add modification/untracked file to git
