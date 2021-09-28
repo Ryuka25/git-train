@@ -1,0 +1,2 @@
+git status 
+* Show all modification since the last commit
