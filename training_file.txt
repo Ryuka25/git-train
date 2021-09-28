@@ -1,0 +1,3 @@
+
+git add <fichier_1> <fichier_2>
+* Add modification/untracked file to git
