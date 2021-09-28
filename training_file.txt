@@ -1,2 +1,8 @@
 git commit --amend
 * Change last commit name !
+
+git add <fichier_1> <fichier_2>
+* Add modification/untracked file to git
+
+git status 
+* Show all modification since the last commit
