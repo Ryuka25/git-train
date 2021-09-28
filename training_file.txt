@@ -5,6 +5,8 @@ git commit --amend
 
 git add <fichier_1> <fichier_2>
 * Add modification/untracked file to git
+* Finish this section
 
 git status 
 * Show all modification since the last commit
+* Finish this section
