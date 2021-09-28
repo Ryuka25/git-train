@@ -7,3 +7,4 @@ git add <fichier_1> <fichier_2>
 
 git status 
 * Show all modification since the last commit
+* Finish this section
