@@ -1,2 +1,3 @@
 git commit --amend
 * Change last commit name !
+* This help when you have make mistake in your last commit message
